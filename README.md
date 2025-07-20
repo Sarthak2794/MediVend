@@ -36,5 +36,4 @@ MediVend is a smart medicine vending machine that allows users to select require
 
 ---
 
-## 📁 File Structure
 
